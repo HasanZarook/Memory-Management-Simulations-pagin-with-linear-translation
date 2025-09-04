@@ -91,13 +91,3 @@ Virtual Address Trace
 
 ---
 
-## 📜 License
-
-MIT License
-
-```
-
----
-
-👉 Do you also want me to **make a combined diagram** (showing all 3: relocation, segmentation, paging) that you can add in your README for visual learners?
-```
